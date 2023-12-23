@@ -1,0 +1,4 @@
+#Sat Dec 23 13:49:38 CST 2023
+base.0=/Users/moby/Desktop/moby_s/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
